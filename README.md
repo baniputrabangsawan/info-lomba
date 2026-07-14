@@ -1,1 +1,1 @@
-Test content from CLI
+Test from revised script
